@@ -6,7 +6,7 @@
 </p>
 
 ### :computer: Pré-requisitos para execução
-- [x] IDE para execução de códigos Javascript, HTML e CSS (ex: Visual Studio Code)
+- [x] IDE para execução de códigos Python (ex: Visual Studio Code)
 - [x] [Python 3](https://www.python.org/downloads/)
 - [x] Bibliotecas Utilizadas: Flask, PyMongo, Flask-PyMongo
 ### :rocket: Começando
