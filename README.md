@@ -18,6 +18,16 @@ $ git clone git@github.com:RafaelaPapale/usersPython-api.git
 ### :wrench: Instalação e Execução
 
 **Instalação:**
+<p>Caso nenhuma das bibliotecas utilizadas no projeto esteja previamente instalada no seu computador, insira os seguintes comandos em seu terminal (garanta que o gerenciador de pacotes do Python (pip) esteja instalado em seu computador):</p>
+```
+$ pip install pymongo
+
+$ pip install flask
+
+$ pip install Flask-PyMongo
+```
+
+**Execução:**
 <p>Após clonar, garanta que o terminal esteja no diretório da pasta principal do projeto.</p>
 
 ```
@@ -30,7 +40,6 @@ $ cd usersPython-api
 $ export FLASK_APP=main.py
 ```
 
-**Execução:**
 <p>Depois execute o comando a seguir para subir o backEnd:</p>
 
 ```
