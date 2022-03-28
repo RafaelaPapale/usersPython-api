@@ -19,6 +19,7 @@ $ git clone git@github.com:RafaelaPapale/usersPython-api.git
 
 **Instalação:**
 <p>Caso nenhuma das bibliotecas utilizadas no projeto esteja previamente instalada no seu computador, insira os seguintes comandos em seu terminal (garanta que o gerenciador de pacotes do Python (pip) esteja instalado em seu computador):</p>
+
 ```
 $ pip install pymongo
 
