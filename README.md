@@ -39,10 +39,10 @@ $ python3 -m flask run
 ### :telescope: Rotas
 
 - POST[/user]: Realiza a criação de um usuário passando os parâmetros *name, amount_products e company*.
-- PUT[/user/<id>]: Realiza a atualização dos dados de um usuário passando os parâmetros name, amount_products e company no body da requisição e o id no path.
+- PUT[/user/:id]: Realiza a atualização dos dados de um usuário passando os parâmetros name, amount_products e company no body da requisição e o id no path.
 - GET[/user]: Realiza a busca de todos os usuários cadastrados.
-- GET[/user/<id>]: Realiza a busca do usuário cujo id foi passado no path da requisição.
-- DELETE[/user/<id>]: Realiza a remoção do usuário cujo id foi passado no path da requisição.
+- GET[/user/:id]: Realiza a busca do usuário cujo id foi passado no path da requisição.
+- DELETE[/user/:id]: Realiza a remoção do usuário cujo id foi passado no path da requisição.
 
 ### :hammer: Construído com...
 
